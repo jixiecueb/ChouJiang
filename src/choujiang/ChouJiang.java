@@ -300,7 +300,7 @@ public class ChouJiang extends JPanel implements MouseListener{
 class Begin extends JWindow{
 	public void paint(Graphics g)
 	{
-		//绘图部分
+		//绘图部分,这部分自己看吧。
 		super.paint(g);
 		//g.clearRect(0, 0, 200, 200);
 		g.clearRect(0, 0, getWidth(), getHeight());
