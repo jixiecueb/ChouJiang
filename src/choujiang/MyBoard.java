@@ -80,7 +80,8 @@ public class MyBoard extends Rectangle implements Runnable{
 		//数字或字母连续下落
 		f=true;
 		try {
-			Thread.sleep(1000*(num+1));
+			Thread.sleep(1000*(num*num*num+1));
+			//if(num==2)Thread.sleep(10000);
 			stat=1;
 			while(addy())
 			Thread.sleep(10);
