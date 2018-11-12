@@ -73,7 +73,7 @@ import javax.swing.*;
 
 /**
  *
- * @author fly
+ * @author xxgyf
  */
 public class ChouJiang extends JPanel implements MouseListener{
 

@@ -9,7 +9,7 @@ import java.awt.*;
 
 /**
  *
- * @author fly
+ * @author xxgyf
  */
 public class MyButton extends Rectangle{
 

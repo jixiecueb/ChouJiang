@@ -14,7 +14,7 @@ import java.util.logging.Logger;
 
 /**
  *
- * @author fly
+ * @author xxgyf
  */
 public class MyBoard extends Rectangle implements Runnable{
 	char ch='0';
